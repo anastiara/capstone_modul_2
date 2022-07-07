@@ -1,4 +1,4 @@
-# Customer Personality Analysis :CONVENIENCE_STORE:
+# Customer Personality Analysis 🏪🛒💰
 
 created by : Anastiara Adina Restu (JCDS 1702 002)
 
