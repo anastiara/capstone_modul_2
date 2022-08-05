@@ -48,3 +48,5 @@ To summarize our analysis, here are the things that we should notice :
 
 After performing spearman correlation test on Expenses and transaction channels, it is shown that they are strong corelated. So, we have to improve our transaction channels to get better sales number in every product.
 
+
+Dashboard for the analysis : https://public.tableau.com/app/profile/anastiara.adina.restu/viz/Anastiara_CPA/CPADashboardFinal
